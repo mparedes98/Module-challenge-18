@@ -168,7 +168,8 @@ Interpret results:
 
 python# Values > 0.5 indicate lower risk (class 1)
 # Values < 0.5 indicate higher risk (class 0)
-Conclusion
+
+###Conclusion
 This neural network model provides a solid foundation for automated student loan risk assessment, achieving 73.5% accuracy in predicting repayment likelihood. While there's room for improvement, the model offers significant business value through consistent, data-driven risk evaluation that can enhance lending decisions and portfolio management.
 The implementation demonstrates the practical application of deep learning in financial services, providing a scalable solution for modern lending challenges while maintaining awareness of regulatory and ethical considerations in automated decision-making.
 Author
